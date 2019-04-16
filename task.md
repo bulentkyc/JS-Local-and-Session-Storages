@@ -19,8 +19,18 @@ Challange Part :D
 
 1. Create a topbar on HTML.
 
-2. Put a button on right side for login/logout.
+2. Put 2 buttons on right side for login/logout and register. If someone logged in first button will show logout. Other wise it will be login.
 
-3. Put a "p" tag on left side to show logged in user name or a message(please log in)
+3. Put a "p" tag on left side to show logged in user name and salutation or a message(please log in).
 
-4. 
+4. Create a div for login and register popup. As defauld hide this div.
+
+5. Give an id to div as 'authPopup'.
+
+6. Put 1 p tag 2 inputs and 1 button inside authPopup. If this popup will shown by login button p tag will show Login. But if shown by register p will be Register. Give id for p, inputs and button. We'll use those on JS part.
+
+7. Create another div to show github avatar.As defauld hide this div too.
+
+8. Give an id to div as 'content'.
+
+9. ...
