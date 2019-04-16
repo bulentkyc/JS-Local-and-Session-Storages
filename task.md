@@ -1,4 +1,5 @@
 --------------------------TASK----------------------------
+
 Warm up Part :)
 
 1. Store on **localStorage** this couple.
@@ -16,10 +17,10 @@ Warm up Part :)
 
 Challange Part :D
 
-6. Create a topbar on HTML.
+1. Create a topbar on HTML.
 
-7. Put a button on right side for login/logout.
+2. Put a button on right side for login/logout.
 
-8. Put a "p" tag on left side to show logged in user name or a message(please log in)
+3. Put a "p" tag on left side to show logged in user name or a message(please log in)
 
-9. 
+4. 
