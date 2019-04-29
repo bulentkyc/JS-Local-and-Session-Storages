@@ -47,6 +47,7 @@ let checkLogin = () => {
         salute.innerHTML = `Hello ${localStorage.userName}`;
         //content.hidden = false;
         authPopup.hidden = true;
+        window.location.href = "./main.html";
     }else {
         logInReg.innerHTML = 'Login';
         salute.innerHTML = 'Hello, please login or register';
